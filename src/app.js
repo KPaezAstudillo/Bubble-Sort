@@ -14,5 +14,5 @@ let randomCard = () => {
     pinta: Pinta[pintaRandom]
   };
   listaCartas.push(datos);
-  return content;
+  return datos;
 };
